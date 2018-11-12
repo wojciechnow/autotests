@@ -1,0 +1,2 @@
+# autotests
+Automation with selenium
